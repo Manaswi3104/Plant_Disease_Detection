@@ -1,1 +1,1 @@
-# Plant_Disease_Detection
+# Portable Mobile Solution for Soyabean Leaf Disease Monitoring
